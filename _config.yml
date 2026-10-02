@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Hunter Vannaman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Jacksonville, FL"
+  bio              : "Data Analyst and Social Science Researcher"
+  location         : "Jacksonville, FL, USA"
   employer         : # N/A
-  uri              : "https://www.linkedin.com/in/hunter-vannaman/"
+  uri              : # N/A
   email            : "huntervannaman@gmail.com" 
 
   # Academic websites
