@@ -2,9 +2,9 @@
 title: "Research Methods in Psychology Lab"
 collection: teaching
 type: "Undergraduate Lab"
-permalink: /teaching/2023-fall-teaching
+permalink: /teaching/2024-spring-teaching
 venue: "University of North Florida, Department of Psychology"
-date: 2023-08-01
+date: 2024-01-01
 location: "Jacksonville, FL, USA"
 ---
 
