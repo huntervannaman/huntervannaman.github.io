@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Psychological Science, University of North Florida, 2024
-* B.S. in Psychology, University of North Florida, 2022
-* A.A., Florida State College at Jacksonville, 2019
+* M.S. in Psychological Science, University of North Florida (2024)
+* B.S. in Psychology, University of North Florida (2022)
+* A.A., Florida State College at Jacksonville (2019)
 
 Work Experience
 ======
