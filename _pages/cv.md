@@ -76,4 +76,6 @@ Teaching
   
 Service
 ======
-* Currently signed in to 43 different slack teams
+* Research Associate, The Florida Institute on Academic Freedom (Sep. 2026 – Present)
+* "Colloquium in Psychological Research" Panelist, University of North Florida (Aug. 2024)
+* Habitat for Humanity ReStore Volunteer, HabiJax (Oct. 2019)
